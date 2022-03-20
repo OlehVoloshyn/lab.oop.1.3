@@ -1,0 +1,14 @@
+﻿  UnitTest1.cpp
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab1\lab1.3\lab1.3\Money.cpp(53,24): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab1\lab1.3\lab1.3\Money.cpp(77,17): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab1\lab1.3\lab1.3\Money.cpp(79,19): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(137,29): error C2676: бинарный "==": "const T" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+          with
+          [
+              T=Money
+          ]
+C:\Users\olegv\OneDrive\Робочий стіл\Lab ООП\lab1\lab1.3\UnitTest1\UnitTest1.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual<Money>(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+          with
+          [
+              T=Money
+          ]
